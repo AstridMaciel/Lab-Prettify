@@ -1,7 +1,4 @@
 
-/*{
-	outline:1px solid rgba(255,0,0,0.3);
-}*/
 *{
 	font-family: Gabriola;
 	text-align: center;
@@ -22,7 +19,7 @@ li{
 	height: 200px;}
 
 .datos img{
--webkit-filter: hue-rotate(150deg);
+   -webkit-filter: hue-rotate(150deg);
 }
 
 .datos img:hover{
